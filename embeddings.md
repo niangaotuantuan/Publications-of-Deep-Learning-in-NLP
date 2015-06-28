@@ -7,6 +7,7 @@
 [pdf](http://download.csdn.net/detail/happytofly/8758755) Nature 521, 436–444
 
 ### Embeddings & Language Models
+
 #### Skip-gram embeddings
 
 + Tomas Mikolov, Kai Chen, Greg Corrado, and Jeffrey Dean. "Efficient Estimation of Word Representations in Vector Space." [pdf](http://arxiv.org/pdf/1301.3781.pdf) ICLR, 2013. 
