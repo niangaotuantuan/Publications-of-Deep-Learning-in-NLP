@@ -3,7 +3,7 @@
 #### Neural langauge models
 + [neural LM] Bengio et al., "A Neural Probabilistic Language Model." [pdf](http://jmlr.csail.mit.edu/papers/volume3/bengio03a/bengio03a.pdf) Journal of Machine Learning Research 2003 
 + [bi-loglinear LM] 
-+ [discriminative LM] Brian Roark, Murat Saraclar, and Michael Collins. "Discriminative n-gram language modeling." [pdf](http://www.sciencedirect.com/science/article/pii/S0885230806000271) Computer Speech and Language, 21(2):373-392. 2007#### Neural langauge models
++ [discriminative LM] Brian Roark, Murat Saraclar, and Michael Collins. "Discriminative n-gram language modeling." [pdf](http://www.sciencedirect.com/science/article/pii/S0885230806000271) Computer Speech and Language, 21(2):373-392. 2007
  
 #### Long short term memory (LSTMs)
 + [parsing] Oriol Vinyals, Lukasz Kaiser, Terry Koo, Slav Petrov, Ilya Sutskever, Geoffrey Hinton, "Grammar as Foreign Language" [pdf](http://arxiv.org/pdf/1412.7449.pdf) arXiv 2014 
