@@ -14,9 +14,9 @@
 #### CNNs: convolution neural networks for language
 + [convoluting from character-level to doc-level] Xiang Zhang, Yann LeCun. "Text Understanding from Scratch" [pdf](http://arxiv.org/pdf/1502.01710v1.pdf) 
 + [character LM for doc-level] Peng, F., Schuurmans, D., Keselj, V. and Wang, S. "Language independent authorship attribution using character level language models." [pdf](http://www.aclweb.org/anthology/E03-1053) EACL 2004. 
-+ [convnet for sentences] Nal Kalchbrenner, Edward Grefenstette and Phil Blunsom. "A Convolutional Neural Network for Modelling Sentences" [pdf] ACL 2014. 
-+ [convnet for paraphrasing] Wenpeng Yin and Hinrich Schutze. "Convolutional Neural Network for Paraphrase Identification." NAACL 2015 
-+ [convolute better with word order] Rie Johnson and Tong Zhang. "Effective Use of Word Order for Text Categorization with Convolutional Neural Networks" [pdf]
++ [convnet for sentences, dynamic, k-max pooling, stacked] Nal Kalchbrenner, Edward Grefenstette and Phil Blunsom. "A Convolutional Neural Network for Modelling Sentences" [pdf](http://nal.co/papers/Kalchbrenner_DCNN_ACL14) ACL 2014. 
++ [unsupervised pretraining for CNN] Wenpeng Yin and Hinrich Schutze. "Convolutional Neural Network for Paraphrase Identification." [pdf](http://aclweb.org/anthology/N/N15/N15-1091.pdf) NAACL 2015 
++ [convolute better with word order, parallel-CNN, different region] Rie Johnson and Tong Zhang. "Effective Use of Word Order for Text Categorization with Convolutional Neural Networks" [pdf](http://arxiv.org/abs/1412.1058)
 
 #### QA with commonsense reasoning [Apr 1]
 + [nlp for AI] Jason Weston, Antoine Bordes, Sumit Chopra, Tomas Mikolov. "Towards AI-Complete Question Answering:A Set of Prerequisite Toy Tasks" [pdf] 2015 
