@@ -48,7 +48,12 @@
 #### Embedding obtained from other methods
 + [noise-contrasive estimation] Andriy Mnih and Koray Kavukcuoglu, "Learning word embeddings efficiently with noise-contrastive estimation" [pdf](https://www.cs.toronto.edu/~amnih/papers/wordreps.pdf) NIPS 2013
 + [logarithm of word-word co-occurrences] Jeffrey Pennington, Richard Socher, and Christopher D. Manning, "GloVe: Global Vectors for Word Representation" [pdf](http://llcao.net/cu-deeplearning15/presentation/nn-pres.pdf) EMNLP 2014
-+ [explicitly encode co-occurrences] Levy Omer, Yoav Goldberg, and Israel Ramat-Gan, "Linguistic regularities in sparse and explicit word representations." [pdf](http://anthology.aclweb.org/W/W14/W14-16.pdf#page=181) CoNLL 2014.
++ [explicitly encode co-occurrences] Omer Levy, Goldberg Yoav, and Ramat-Gan Israel, "Linguistic regularities in sparse and explicit word representations." [pdf](http://anthology.aclweb.org/W/W14/W14-16.pdf#page=181) CoNLL 2014.
+
+#### Why and when embeddings are better
++ [comparison between pretrained embeddings] Yanqing Chen, Bryan Perozzi, Rami Al-Rfou, and Steven Skiena. "The expressive power of word embeddings" [pdf](http://arxiv.org/pdf/1301.3226.pdf)  ICML 2013
++ [prediction fashioned matters] Felix Hill, KyungHyun Cho, Sebastien Jean, et al., "Not all neural embeddings are born equal" [pdf](http://arxiv.org/abs/1410.0718) NIPS Workshop 2014
++ [multichannel as multi-embeddings input] Wenpeng Yin, Hinrich Schütze. "MultiGranCNN: An Architecture for General Matching of  Text Chunks on Multiple Levels of Granularity" ACL 2015
 
 #### Classic(!)
 + Brown et al., "Class-Based n-Gram Models of Natural Language." [pdf] Computational Linguistics 1992
