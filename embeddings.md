@@ -55,6 +55,11 @@
 + [prediction fashioned matters] Felix Hill, KyungHyun Cho, Sebastien Jean, et al., "Not all neural embeddings are born equal" [pdf](http://arxiv.org/abs/1410.0718) NIPS Workshop 2014
 + [multichannel as multi-embeddings input] Wenpeng Yin, Hinrich Schütze. "MultiGranCNN: An Architecture for General Matching of  Text Chunks on Multiple Levels of Granularity" ACL 2015
 
+#### Word Representations via Distribution Embedding 
++ Katrin Erk, "Representing Words As Regions in Vector Space". [pdf](http://dl.acm.org/citation.cfm?id=1596374.1596387) In Proceedings of the Thirteenth Conference on Computational Natural Language Learning, Boulder, Colorado, 2009. 
++ [random walks, generative model] Sanjeev Arora, Yuanzhi Li, Yingyu Liang, Tengyu Ma, Andrej Risteski. "Random Walks on Context Spaces: Towards an Explanation of the Mysteries of Semantic Word Embeddings" [pdf](http://arxiv.org/abs/1412.6616). In CoRR, 2015.
++ [breadth, asymmetric] Luke Vilnis, Andrew McCallum. "Word Representations via Gaussian Embedding". [pdf](http://arxiv.org/abs/1412.6623) [slides](http://www.iclr.cc/lib/exe/fetch.php?media=iclr2015:vilnis-iclr2015.pdf) In ICLR, 2015.
+
 #### Classic(!)
 + Brown et al., "Class-Based n-Gram Models of Natural Language." [pdf] Computational Linguistics 1992
 
