@@ -13,9 +13,9 @@
 + [unsupervised pretraining for CNN] Wenpeng Yin and Hinrich Schutze. "Convolutional Neural Network for Paraphrase Identification." [pdf](http://aclweb.org/anthology/N/N15/N15-1091.pdf) NAACL 2015 
 + [convolute better with word order, parallel-CNN, different region] Rie Johnson and Tong Zhang. "Effective Use of Word Order for Text Categorization with Convolutional Neural Networks" [pdf](http://arxiv.org/abs/1412.1058)
 + Hermann, Karl Moritz, and Phil Blunsom. "Multilingual Models for Compositional
-Distributed Semantics." arXiv preprint arXiv:1404.4641 (2014).
+Distributed Semantics." [pdf](http://arxiv.org/pdf/1404.4641v1.pdf) ACL 2014
 + Hermann, Karl Moritz, and Phil Blunsom. "Multilingual Distributed Representations
-without Word Alignment." arXiv preprint arXiv: 1312.6173(2013).
+without Word Alignment." ACL 2014
 + Kim, Yoon. "Convolutional Neural Networks for Sentence Classification. “ arxiv : 2014
 + Le, Quoc V., and Tomas Mikolov. "Distributed Representations of Sentences and
 Documents." ICML (2014).
@@ -24,4 +24,4 @@ Documents." ICML (2014).
 ### Document Modeling
 + [2D convolutional] Misha Denil, Alban Demiraj, Nal Kalchbrenner, Phil Blunsom, Nando de Freitas. "Modelling, Visualising and Summarising Documents with a Single Convolutional Neural Network" [pdf](http://arxiv.org/abs/1406.3830) in CoRR 2014.
 + Hermann, Karl Moritz, and Phil Blunsom. "Multilingual Models for Compositional
-Distributed Semantics." arXiv preprint arXiv:1404.4641 (2014).
+Distributed Semantics." [pdf](http://arxiv.org/pdf/1404.4641v1.pdf) ACL 2014
