@@ -4,6 +4,7 @@
 + Tomas Mikolov, Ilya Sutskever, Kai Chen, Greg Corrado, and Jeff Dean, "Distributed Representations of Words and Phrases and their Compositionality," [pdf](http://arxiv.org/pdf/1310.4546.pdf) NIPS 2013 
 + [socher's] 
 + [cutting RNN trees] Christian Scheible, Hinrich Schutze. "Cutting Recursive Autoencoder Trees" [pdf](http://arxiv.org/pdf/1301.2811v3.pdf) CoRR abs/1301.2811 (2013)
++ [composition operators, mental-related similarity] Gershman, S. J., & Tenenbaum, J. B. "Phrase similarity in humans and machines". [pdf](http://projects.iq.harvard.edu/files/ccnlab/files/gershmantenenbaum15.pdf) 2015 Proceedings of the 37th Annual Conference of the Cognitive Science Society, Proceedings of the 37th Annual Conference of the Cognitive Science Society.
 
 ### Sentence Modeling
 
