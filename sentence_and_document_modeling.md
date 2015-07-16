@@ -26,3 +26,7 @@ Documents." ICML (2014).
 + [2D convolutional] Misha Denil, Alban Demiraj, Nal Kalchbrenner, Phil Blunsom, Nando de Freitas. "Modelling, Visualising and Summarising Documents with a Single Convolutional Neural Network" [pdf](http://arxiv.org/abs/1406.3830) in CoRR 2014.
 + Hermann, Karl Moritz, and Phil Blunsom. "Multilingual Models for Compositional
 Distributed Semantics." [pdf](http://arxiv.org/pdf/1404.4641v1.pdf) ACL 2014
++ [deep RBM] Nitish Srivastava, Ruslan R Salakhutdinov, Geoffrey E. Hinton. "Modeling documents with a deep boltzmann machine." [pdf](http://arxiv.org/abs/1309.6865) in Uncertainty in Artificial Intelligence, 2013
++ Chaochao Huang, Xipeng Qiu, Xuanjing Huang, "Text Classification with Document Embeddings" [pdf](http://link.springer.com/chapter/10.1007%2F978-3-319-12277-9_12) Springer 2014
++ Le, Quoc V., and Tomas Mikolov. "Distributed Representations of Sentences and
+Documents." ICML (2014).
