@@ -57,6 +57,7 @@
 + [comparison between pretrained embeddings] Yanqing Chen, Bryan Perozzi, Rami Al-Rfou, and Steven Skiena. "The expressive power of word embeddings" [pdf](http://arxiv.org/pdf/1301.3226.pdf)  ICML 2013
 + [prediction fashioned matters] Felix Hill, KyungHyun Cho, Sebastien Jean, et al., "Not all neural embeddings are born equal" [pdf](http://arxiv.org/abs/1410.0718) NIPS Workshop 2014
 + [multichannel as multi-embeddings input] Wenpeng Yin, Hinrich Schütze. "MultiGranCNN: An Architecture for General Matching of  Text Chunks on Multiple Levels of Granularity" ACL 2015
++ [dimension, corpus, compare] Siwei Lai, Kang Liu, Liheng Xu, Jun Zhao, "How to Generate a Good Word Embedding?" [pdf](http://arxiv.org/abs/1507.05523) arXiv pre-print
 
 #### Word Representations via Distribution Embedding 
 + Katrin Erk, "Representing Words As Regions in Vector Space". [pdf](http://dl.acm.org/citation.cfm?id=1596374.1596387) In Proceedings of the Thirteenth Conference on Computational Natural Language Learning, Boulder, Colorado, 2009. 
@@ -70,4 +71,3 @@
 
 + Yoav Goldberg. "A note on Latent Semantic Analysis" [pdf] Tech-report 
 + Yoav Goldberg and Omer Levy "word2vec explained: deriving Mikolov et al.'s negative-sampling word-embedding method" [pdf] Tech-report 2013
-+ [dimension, corpus, compare] Siwei Lai, Kang Liu, Liheng Xu, Jun Zhao, "How to Generate a Good Word Embedding?" [pdf](http://arxiv.org/abs/1507.05523) arXiv pre-print
