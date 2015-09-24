@@ -68,3 +68,4 @@
 
 + Yoav Goldberg. "A note on Latent Semantic Analysis" [pdf] Tech-report 
 + Yoav Goldberg and Omer Levy "word2vec explained: deriving Mikolov et al.'s negative-sampling word-embedding method" [pdf] Tech-report 2013
++ [dimension, corpus, compare] Siwei Lai, Kang Liu, Liheng Xu, Jun Zhao, "How to Generate a Good Word Embedding?" [pdf](http://arxiv.org/abs/1507.05523) arXiv pre-print
