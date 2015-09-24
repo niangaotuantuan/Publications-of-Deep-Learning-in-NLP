@@ -25,6 +25,9 @@ Documents." ICML (2014).
 #### RNNs and their variants
 + [RNN with GRUs] Ryan Kiros, Yukun Zhu, Ruslan Salakhutdinov, Richard S. Zemel, Antonio Torralba, Raquel Urtasun, Sanja Fidler, "Skip-Thought Vectors" [pdf](http://arxiv.org/abs/1506.06726) NIPS 2015
 
+#### other NN architectures
++ [DAN, average, simple but effective] Mohit Iyyer, Varun Manjunatha, Jordan Boyd-Graber, and Hal Daumé III, "Deep Unordered Composition Rivals Syntactic Methods for Text Classification" [pdf](http://cs.umd.edu/~miyyer/pubs/2015_acl_dan.pdf) ACL 2015
+
 ### Document Modeling
 + [2D convolutional] Misha Denil, Alban Demiraj, Nal Kalchbrenner, Phil Blunsom, Nando de Freitas. "Modelling, Visualising and Summarising Documents with a Single Convolutional Neural Network" [pdf](http://arxiv.org/abs/1406.3830) in CoRR 2014.
 + Hermann, Karl Moritz, and Phil Blunsom. "Multilingual Models for Compositional
