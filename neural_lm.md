@@ -11,7 +11,7 @@
 + [translation] Ilya Sutskever, Oriol Vinyals, Quoc Le, "Sequence to Sequence Learning with Neural Networks" [pdf](http://arxiv.org/pdf/1409.3215.pdf) NIPS 2014
 + [attention-based LSTM, summarization] Alexander M. Rush, Sumit Chopra and Jason Weston, "A Neural Attention Model for Abstractive Sentence Summarization" [pdf](http://www.emnlp2015.org/proceedings/EMNLP/pdf/EMNLP044.pdf) EMNLP 2015
 + [bi-LSTM, character] Wang Ling, Tiago Luis, Luis Marujo, Ramon Fernandez Astudillo, Silvio Amir, Chris Dyer, Alan W Black, Isabel Trancoso, "Finding Function in Form: Compositional Character Models for Open Vocabulary Word Representation" [pdf](http://www.cs.cmu.edu/~lingwang/papers/emnlp2015.pdf) EMNLP 2015
-+ [reading gate, dialogue cell] Tsung-Hsien Wen, Milica Gasic, Nikola Mrksic, Pei-Hao Su, David Vandyke, Steve Young, "Semantically Conditioned LSTM-based Natural Language Generation for Spoken Dialogue Systems" [pdf](http://www.emnlp2015.org/proceedings/EMNLP/pdf/EMNLP199.pdf) **EMNLP 2015 Best Paper*
++ [reading gate, dialogue cell] Tsung-Hsien Wen, Milica Gasic, Nikola Mrksic, Pei-Hao Su, David Vandyke, Steve Young, "Semantically Conditioned LSTM-based Natural Language Generation for Spoken Dialogue Systems" [pdf](http://www.emnlp2015.org/proceedings/EMNLP/pdf/EMNLP199.pdf) **EMNLP 2015 Best Paper**
 + [state embedding, character] Miguel Ballesteros, Chris Dyer and Noah A. Smith, "Improved Transition-Based Parsing by Modeling Characters instead of Words with LSTMs" [pdf](http://arxiv.org/pdf/1508.00657.pdf) EMNLP 2015
 + [no stacked, highway networks, character, CNN with LSTM] Yoon Kim, Yacine Jernite, David Sontag, Alexander M. Rush "Character-Aware Neural Language Models" [pdf](http://arxiv.org/pdf/1508.06615v2.pdf) arXiv pre-print
 
