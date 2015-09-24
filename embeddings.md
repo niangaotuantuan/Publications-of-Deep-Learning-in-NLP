@@ -37,7 +37,8 @@
 + [morpheme] Siyu Qiu, Qing Cui, Jiang Bian, Bin Gao, Tie-Yan Liu. "Co-learning of Word Representations and Morpheme Representations" [pdf](http://www.aclweb.org/anthology/C14-1015) COLING 2014 
 + [morphological] Ryan Cotterell and Hinrich Schütze. "Morphological Word-Embeddings" [pdf](http://www.aclweb.org/anthology/N/N15/N15-1140.pdf) NAACL 2015 (Short)
 + [regularization] Dani Yogatama, Manaal Faruqui, Chris Dyer, Noah Smith. "Learning Word Representations with Hierarchical Sparse Coding" [pdf](http://arxiv.org/pdf/1406.2035.pdf) ICML 2015
-
++ [lexical resource, babelnet] Ignacio Iacobacci, Mohammad Taher Pilehvar and Roberto Navigli, "SensEmbed: Learning Sense Embeddings for Word and Relational Similarity" [pdf](http://wwwusers.di.uniroma1.it/~navigli/pubs/ACL_2015_Iacobaccietal.pdf) ACL 2015
++ [specific linguistic relation] Zhigang Chen, Wei Lin, Qian Chen, Xiaoping Chen, Si Wei, Hui Jiang and Xiaodan Zhu, "Revisiting Word Embedding for Contrasting Meaning" [pdf](http://www.anthology.aclweb.org/P/P15/P15-1011.pdf) ACL 2015
 
 #### Embeddings as matrix factorization
 + [approximate interpretation] Levy and Goldberg, "Neural Word Embedding as Implicit Matrix Factorization." [pdf](https://levyomer.files.wordpress.com/2014/09/neural-word-embeddings-as-implicit-matrix-factorization.pdf) NIPS 2014 
