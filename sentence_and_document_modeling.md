@@ -22,6 +22,9 @@ without Word Alignment." ACL 2014
 Documents." ICML (2014).
 + [ARC-I, ARC-II, 2D convolutional, order perserving] Baotian Hu, Zhengdong Lu, Hang Li, etc. “Convolutional Neural Network Architectures for Matching Natural Language Sentences.” [pdf](http://www.hangli-hl.com/uploads/3/1/6/8/3168008/hu-etal-nips2014.pdf) NIPS 2014 
 
+#### RNNs and their variants
++ [RNN with GRUs] Ryan Kiros, Yukun Zhu, Ruslan Salakhutdinov, Richard S. Zemel, Antonio Torralba, Raquel Urtasun, Sanja Fidler, "Skip-Thought Vectors" [pdf](http://arxiv.org/abs/1506.06726) NIPS 2015
+
 ### Document Modeling
 + [2D convolutional] Misha Denil, Alban Demiraj, Nal Kalchbrenner, Phil Blunsom, Nando de Freitas. "Modelling, Visualising and Summarising Documents with a Single Convolutional Neural Network" [pdf](http://arxiv.org/abs/1406.3830) in CoRR 2014.
 + Hermann, Karl Moritz, and Phil Blunsom. "Multilingual Models for Compositional
