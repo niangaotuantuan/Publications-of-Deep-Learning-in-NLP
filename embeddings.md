@@ -31,6 +31,7 @@
 + [autoencoder, lexeme, lexical resource, synset] Sascha Rothe and Hinrich Schutze, "AutoExtend: Extending Word Embeddings to Embeddings for Synsets and Lexemes" [pdf](http://arxiv.org/pdf/1507.01127v1.pdf) **ACL 2015 Best Paper**
 + [lexical resource, babelnet] Ignacio Iacobacci, Mohammad Taher Pilehvar and Roberto Navigli, "SensEmbed: Learning Sense Embeddings for Word and Relational Similarity" [pdf](http://wwwusers.di.uniroma1.it/~navigli/pubs/ACL_2015_Iacobaccietal.pdf) ACL 2015
 + [specific linguistic relation] Zhigang Chen, Wei Lin, Qian Chen, Xiaoping Chen, Si Wei, Hui Jiang and Xiaodan Zhu, "Revisiting Word Embedding for Contrasting Meaning" [pdf](http://www.anthology.aclweb.org/P/P15/P15-1011.pdf) ACL 2015
++ [syntax] Jianpeng Cheng and Dimitri Kartsaklis. "Syntax-Aware Multi-Sense Word Embeddings for Deep Compositional Models of Meaning". [pdf](http://www.aclweb.org/anthology/D/D15/D15-1177.pdf) EMNLP 2015, Lisbon, Portugal, September 2015.
 
 #### Embedding enhancement: Word order, Morphological, etc
 + [syntax-word order] Wang Liang, Chris Dyer, Alan Black, Isabel Trancoso. "Two/Too Simple Adaptations of Word2Vec for Syntax Problems" [pdf](http://www.cs.cmu.edu/~lingwang/papers/naacl2015.pdf) NAACL 2015 (Short)
