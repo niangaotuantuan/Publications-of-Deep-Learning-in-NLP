@@ -63,8 +63,11 @@
 
 #### Word Representations via Distribution Embedding 
 + Katrin Erk, "Representing Words As Regions in Vector Space". [pdf](http://dl.acm.org/citation.cfm?id=1596374.1596387) In Proceedings of the Thirteenth Conference on Computational Natural Language Learning, Boulder, Colorado, 2009. 
-+ [random walks, generative model] Sanjeev Arora, Yuanzhi Li, Yingyu Liang, Tengyu Ma, Andrej Risteski. "Random Walks on Context Spaces: Towards an Explanation of the Mysteries of Semantic Word Embeddings" [pdf](http://arxiv.org/abs/1412.6616). In CoRR, 2015.
-+ [breadth, asymmetric] Luke Vilnis, Andrew McCallum. "Word Representations via Gaussian Embedding". [pdf](http://arxiv.org/abs/1412.6623) [slides](http://www.iclr.cc/lib/exe/fetch.php?media=iclr2015:vilnis-iclr2015.pdf) In ICLR, 2015.
++ [SVD, framework, scaling] Karl Stratos, Michael Collins, and Daniel Hsu. " Model-based Word Embeddings from Decompositions of Count Matrices". [pdf](http://www.cs.columbia.edu/~stratos/research/acl15cca.pdf) ACL 2015.
++ [MF, SVD] Omer Levy, Yoav Goldberg, and Ido Dagan. "Improving Distributional Similarity with Lessons Learned from Word Embeddings". [pdf](https://levyomer.files.wordpress.com/2015/03/improving-distributional-similarity-tacl-2015.pdf) TACL 2015.
++ [random walks, generative model] Sanjeev Arora, Yuanzhi Li, Yingyu Liang, Tengyu Ma, Andrej Risteski. "Random walks on discourse spaces: a new generative language model with applications to semantic word embeddings" [pdf](http://arxiv.org/abs/1412.6616). In CoRR, 2015.
++ [breadth, asymmetric] Luke Vilnis, Andrew McCallum. "Word Representations via Gaussian Embedding". [pdf](http://arxiv.org/abs/1412.6623). In ICLR, 2015.
++ [markov, generative, MF] Tatsunori B. Hashimoto, David Alvarez-Melis, Tommi S. Jaakkola. "Word, graph, and manifold embedding from Markov processes". [pdf](http://arxiv.org/abs/1509.05808). arXiv preprint 2015.
 
 #### Classic(!)
 + Brown et al., "Class-Based n-Gram Models of Natural Language." [pdf] Computational Linguistics 1992
