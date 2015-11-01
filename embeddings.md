@@ -71,3 +71,4 @@
 
 + Yoav Goldberg. "A note on Latent Semantic Analysis" [pdf] Tech-report 
 + Yoav Goldberg and Omer Levy "word2vec explained: deriving Mikolov et al.'s negative-sampling word-embedding method" [pdf] Tech-report 2013
++ [survey, CNN, RNN, ReNN] Yoav Goldberg. "A Primer on Neural Network Models for Natural Language Processing". [pdf](http://u.cs.biu.ac.il/~yogo/nnlp.pdf) 2015
