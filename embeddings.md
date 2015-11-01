@@ -5,6 +5,7 @@
 #### Bengio, LeCun Yann, Yoshua Bengio and Geoffrey Hinton's survey on *Nature*
 + Yann LeCun, Yoshua Bengio	 and Geoffrey Hinton. "Deep Learning"
 [pdf](http://download.csdn.net/detail/happytofly/8758755) Nature 521, 436–444
++ [survey, CNN, RNN, ReNN] Yoav Goldberg. "A Primer on Neural Network Models for Natural Language Processing". [pdf](http://u.cs.biu.ac.il/~yogo/nnlp.pdf) 2015
 
 ### Embeddings & Language Models
 
