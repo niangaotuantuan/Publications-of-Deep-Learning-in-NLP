@@ -26,6 +26,7 @@
 + [convolute better with word order, parallel-CNN, different region] Rie Johnson and Tong Zhang. "Effective Use of Word Order for Text Categorization with Convolutional Neural Networks" [pdf](http://arxiv.org/abs/1412.1058)
 + [character, ConvNet, data augumentation] Xiang Zhang, Junbo Zhao, Yann LeCun, "Character-level Convolutional Networks" [pdf](http://arxiv.org/pdf/1509.01626v2.pdf) NIPS 2015
 + [no stacked, highway networks, character, CNN with LSTM] Yoon Kim, Yacine Jernite, David Sontag, Alexander M. Rush "Character-Aware Neural Language Models" [pdf](http://arxiv.org/pdf/1508.06615v2.pdf) arXiv pre-print
++ [tree CNN, structure] Phong Le and Willem Zuidema. "The Forest Convolutional Network: Compositional Distributional Semantics with a Neural Chart and without Binarization". [pdf](http://aclweb.org/anthology/D15-1137). EMNLP 2015.
 
 #### QA with commonsense reasoning
 + [nlp for AI] Jason Weston, Antoine Bordes, Sumit Chopra, Tomas Mikolov. "Towards AI-Complete Question Answering:A Set of Prerequisite Toy Tasks" [pdf](http://arxiv.org/pdf/1502.05698v4.pdf) 2015 
@@ -38,3 +39,5 @@
 + Tomas Mikolov, Ilya Sutskever, Kai Chen, Greg Corrado, and Jeff Dean, "Distributed Representations of Words and Phrases and their Compositionality," [pdf](http://arxiv.org/pdf/1310.4546.pdf) NIPS 2013 
 + [socher's] 
 + [cutting RNN trees] Christian Scheible, Hinrich Schutze. "Cutting Recursive Autoencoder Trees" [pdf](http://arxiv.org/pdf/1301.2811v3.pdf) CoRR abs/1301.2811 (2013)
++ [dimension, interpretable] Alona Fyshe, Leila Wehbe, Partha Talukdar, et al. "A Compositional and Interpretable Semantic Space". [pdf](http://www.cs.cmu.edu/~fmri/papers/naacl2015/comp_nnse.pdf) NAACL 2015.
++ [tree CNN, structure] Phong Le and Willem Zuidema. "The Forest Convolutional Network: Compositional Distributional Semantics with a Neural Chart and without Binarization". [pdf](http://aclweb.org/anthology/D15-1137). EMNLP 2015.
