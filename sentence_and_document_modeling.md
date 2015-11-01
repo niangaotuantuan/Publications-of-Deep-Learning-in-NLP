@@ -20,10 +20,12 @@ without Word Alignment." ACL 2014
 + Kim, Yoon. "Convolutional Neural Networks for Sentence Classification. “ arxiv : 2014
 + Le, Quoc V., and Tomas Mikolov. "Distributed Representations of Sentences and
 Documents." ICML (2014).
-+ [ARC-I, ARC-II, 2D convolutional, order perserving] Baotian Hu, Zhengdong Lu, Hang Li, etc. “Convolutional Neural Network Architectures for Matching Natural Language Sentences.” [pdf](http://www.hangli-hl.com/uploads/3/1/6/8/3168008/hu-etal-nips2014.pdf) NIPS 2014 
++ [ARC-I, ARC-II, 2D convolutional, order perserving] Baotian Hu, Zhengdong Lu, Hang Li, etc. “Convolutional Neural Network Architectures for Matching Natural Language Sentences.” [pdf](http://www.hangli-hl.com/uploads/3/1/6/8/3168008/hu-etal-nips2014.pdf) NIPS 2014
++ [tree CNN + recursive, structure] Phong Le and Willem Zuidema. "The Forest Convolutional Network: Compositional Distributional Semantics with a Neural Chart and without Binarization". [pdf](http://aclweb.org/anthology/D15-1137). EMNLP 2015.
 
 #### RNNs and their variants
 + [RNN with GRUs] Ryan Kiros, Yukun Zhu, Ruslan Salakhutdinov, Richard S. Zemel, Antonio Torralba, Raquel Urtasun, Sanja Fidler, "Skip-Thought Vectors" [pdf](http://arxiv.org/abs/1506.06726) NIPS 2015
++ [tree CNN + Recursive, structure] Phong Le and Willem Zuidema. "The Forest Convolutional Network: Compositional Distributional Semantics with a Neural Chart and without Binarization". [pdf](http://aclweb.org/anthology/D15-1137). EMNLP 2015.
 
 #### other NN architectures
 + [DAN, average, simple but effective] Mohit Iyyer, Varun Manjunatha, Jordan Boyd-Graber, and Hal Daumé III, "Deep Unordered Composition Rivals Syntactic Methods for Text Classification" [pdf](http://cs.umd.edu/~miyyer/pubs/2015_acl_dan.pdf) ACL 2015
