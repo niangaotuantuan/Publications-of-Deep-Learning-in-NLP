@@ -40,3 +40,6 @@ Distributed Semantics." [pdf](http://arxiv.org/pdf/1404.4641v1.pdf) ACL 2014
 + Chaochao Huang, Xipeng Qiu, Xuanjing Huang, "Text Classification with Document Embeddings" [pdf](http://link.springer.com/chapter/10.1007%2F978-3-319-12277-9_12) Springer 2014
 + Le, Quoc V., and Tomas Mikolov. "Distributed Representations of Sentences and
 Documents." ICML (2014).
++ [document-level language model] Rui Lin, Shujie Liu, Muyun Yang, et al. "Hierarchical Recurrent Neural Network for Document Modeling". 2015. In Proceedings of EMNLP. [[pdf]](http://www.aclweb.org/anthology/D15-1106)
++ [convolutional] Duyu Tang, Bing Qin, and Ting Liu. "Document Modeling with Gated Recurrent Neural Network for Sentiment Classification". 2015. In Proceedings of EMNLP. [[pdf]](http://ir.hit.edu.cn/~dytang/paper/emnlp2015/emnlp2015.pdf)
++ [information flow, attention] Yangfeng Ji, Trevor Cohn, Lingpeng Kong, et al. "Document Context Language Models". 2015. arXiv preprint. In submission to ICLR 2016. [[pdf]](http://arxiv.org/abs/1511.03962)
